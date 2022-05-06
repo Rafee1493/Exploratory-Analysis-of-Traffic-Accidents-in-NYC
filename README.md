@@ -1,4 +1,4 @@
-# Exploratory-Analysis-of-Traffic-Accidents-in-NYC_dev
+# Exploratory-Analysis-of-Traffic-Accidents-in-NYC
 
 # Purpose:
 
